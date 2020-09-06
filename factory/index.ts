@@ -1,6 +1,6 @@
 'use strict';
 
-import { DataReader } from "./Utils/FileReader"
+import { DataReader } from "./Utils/DataReader"
 import { Car } from "./Model/Car"
 import { Bike } from "./Model/Bike"
 
